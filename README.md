@@ -33,5 +33,7 @@ TT - time when it was recorded (using 24h system)
 
 N - number of the recording
 
+There are also files named 1, 2, 3, etc. The purpose of naming them this way is to load many files easier way.
+
 Every feedback is welcome. Enjoy.
 ### Kacper Turek
