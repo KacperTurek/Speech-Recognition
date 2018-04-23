@@ -18,6 +18,8 @@ sudo pip install scikit-learn
 To install scikit-learn you need to have Python newer than 3.3, nupmy newer than 1.8.2 and SciPy newer than 0.13.3.
 
 Audio files are in Recordings folder. All the files are names by this rule:
+
 Student's index number_Age_Gender(K- female, M- male)_Time when it was recorded(using 24H system)_Number of recording 
+
 Every feedback is welcome.Enjoy.
 ### Kacper Turek
