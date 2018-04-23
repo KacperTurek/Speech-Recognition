@@ -33,5 +33,5 @@ TT - time when it was recorded (using 24h system)
 
 N - number of the recording
 
-Every feedback is welcome.Enjoy.
+Every feedback is welcome. Enjoy.
 ### Kacper Turek
