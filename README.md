@@ -19,7 +19,19 @@ To install scikit-learn you need to have Python newer than 3.3, nupmy newer than
 
 Audio files are in Recordings folder. All the files are names by this rule:
 
-Student's index number_Age_Gender(K- female, M- male)_Time when it was recorded(using 24H system)_Number of recording 
+IIIIII_AA_G_TT_N.wav
+
+where:
+
+I - student's index number
+
+A - age of the student
+
+G - gender (K- female, M- male)
+
+TT - time when it was recorded (using 24h system)
+
+N - number of the recording
 
 Every feedback is welcome.Enjoy.
 ### Kacper Turek
