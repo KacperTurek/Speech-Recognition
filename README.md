@@ -5,7 +5,7 @@ In this project I'll show you my own code designed to recognize voice commands t
 Before you head to the notebook make sure you've got all necessary packages installed.
 
 ```javascript
-console.log("Hello World")
+pip install librosa
 ```
 
 Every feedback is welcome.
