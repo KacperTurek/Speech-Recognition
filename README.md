@@ -17,7 +17,7 @@ sudo pip install scikit-learn
 ```
 To install scikit-learn you need to have Python newer than 3.3, nupmy newer than 1.8.2 and SciPy newer than 0.13.3.
 
-Audio files are in Recordings folder. All the files are names by this rule:
+Audio files are in Recordings folder. In each of them person says 13 different words that can be used to control smart home. There is around 1s pause between every words. All the files are names by this rule:
 
 IIIIII_AA_G_TT_N.wav
 
