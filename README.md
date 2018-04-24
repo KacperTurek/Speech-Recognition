@@ -35,5 +35,7 @@ N - number of the recording
 
 There are also files named 1, 2, 3, etc. The purpose of naming them this way is to load many files easier way.
 
+### Unfortunately graphs from Plotly package dont'w show up on github, so i recommend using this link http://nbviewer.jupyter.org/github/KacperTurek/Speech-Recognition/blob/master/Speech%20Recognition.ipynb to view the notebook with all the graphs.
+
 Every feedback is welcome. Enjoy.
 ### Kacper Turek
