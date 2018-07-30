@@ -40,3 +40,5 @@ Unfortunately graphs from Plotly package don't show up on github, so i recommend
 
 Every feedback is welcome. Enjoy.
 ### Kacper Turek
+
+Edit: For the algorithm to work better the label vector should be encoded because it contains categorical values instead of numerical values.
